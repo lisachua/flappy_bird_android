@@ -1,0 +1,4 @@
+#Wed Feb 20 17:36:17 EST 2019
+base.0=/Users/lisachua/Desktop/Spring2019/COSC253/Flappy/android/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
