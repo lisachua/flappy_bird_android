@@ -5,9 +5,8 @@ This repo contains a simple implementation of the Flappy Bird game created by Do
 
 ## Features
 ### Keep the bird flying
-![](flappy1.png)
-
 ### Accumulate points by passing a column pipe
+![](flappy1.png)
 
 ### Game over screen
 ![](flappy2.png)
